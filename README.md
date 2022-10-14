@@ -13,7 +13,7 @@
     <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/42030f11-dc0e-42ad-af74-da2d35656193"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/42030f11-dc0e-42ad-af74-da2d35656193.svg" alt="wakatime"></a>
 </p>
 
-![Preview]()
+![Preview](./src/assets/images/preview.jfif)
 
 ## 💻 Projeto
 
